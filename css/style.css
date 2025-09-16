@@ -1,0 +1,25 @@
+body {
+    background-color: grey;
+    position: absolute;
+    padding: 1px;
+    margin: 2px;
+    
+}
+
+.darkGreen {
+    background-color: green;
+}
+
+.favoritePhotos {
+    background-color: lightgreen;
+    float: right;
+}
+
+.welcome {
+    background-color: lightgreen;
+    float: left;
+}
+
+.divBar {
+    background-color: lightGreen;
+}
