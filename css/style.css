@@ -24,17 +24,18 @@ body {
     padding-top: 10px;
 }
 
-.darkGreen {
-    background-color: green;
+.favoritePhotos {
+    /* background-color: lightgreen; */
+    /* float: right; */
 }
 
-.favoritePhotos {
-    background-color: lightgreen;
-    float: right;
+.individualImg {
+    width: 50%;
+    height: 50%;
 }
 
 .welcome {
-    background-color: lightgreen;
+    /* background-color: lightgreen; */
     /* float: left; */
 }
 
@@ -62,4 +63,19 @@ body {
     height: 30px;
     text-align: center;
     line-height: 30px;
+}
+
+footer {
+    background-color: green;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+    background-color: green;
+}
+.container article {
+    flex: 1;
+    padding: 10px;
+    background-color: lightgreen;
 }
