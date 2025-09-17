@@ -16,5 +16,6 @@
     command to run them.
 
 ## More Info
+    There is an extra folder "ExtraFiles" that is in this repository. These files are the extra pages that are in the site. Are they needed? No, they are not. I simply made them because I was breaking the project down while doing formating and thus wanted to see them.
 
 ## References / If needed
