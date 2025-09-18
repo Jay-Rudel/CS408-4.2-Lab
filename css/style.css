@@ -2,7 +2,6 @@ body {
     background-color: grey;
     margin: 0px;
     min-width: 400px;
-    margin-top: -2.5%;
 }
 
 .logo {
@@ -16,7 +15,7 @@ body {
     background-color: green;
     padding-left: 10px;
     padding-right: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 1px;
     margin-bottom: 15px;
 }
 
@@ -26,10 +25,9 @@ body {
 }
 
 .favoritePhotos {
-    padding: 10px;
     display: grid;
     grid-template-columns: repeat(2, 1fr); 
-    gap: 10px;
+    gap: 3px;
 }
 
 .favoritePhotos img {
@@ -67,6 +65,7 @@ body {
 .divBar li:hover{
     background-color: white;
 }
+
 .divBar li{
     display: inline-block;
     max-width: 100px;
@@ -79,6 +78,8 @@ body {
 
 footer {
     background-color: green;
+    padding: 3px;
+    margin-top: 12px;
 }
 
 .container {
