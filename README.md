@@ -18,6 +18,10 @@
     There is no tests for this project. As such there is no
     command to run them.
 
+## Verification
+    I ran my main "index.html" through the validation 
+    and it showed that there was no errors or warnings to show
+
 ## More Info
     There is an extra folder "ExtraFiles" that is 
     in this repository. These files are the extra 
