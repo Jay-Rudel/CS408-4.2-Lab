@@ -9,7 +9,7 @@
     I highly recommend using VSCode Live Server extention to see the project. This allows you to
     see the page, and interact with the page without having to open it in a local file.
 
-    The file that you will be looking at for this project in my github is called Letter.html
+    The file that you will be looking at for this project in my github is called index.html
     
 ## Testing
     There is no tests for this project. As such there is no
