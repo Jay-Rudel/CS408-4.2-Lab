@@ -1,8 +1,8 @@
 body {
     background-color: grey;
-    /* position: absolute; */
-    padding: 1px;
-    margin: 2px;
+    margin: 0px;
+    min-width: 400px;
+    margin-top: -2.5%;
 }
 
 .logo {
@@ -26,8 +26,16 @@ body {
 }
 
 .favoritePhotos {
-    /* background-color: lightgreen; */
-    /* float: right; */
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 10px;
+}
+
+.favoritePhotos img {
+    width: 100%;    
+    height: auto;   
+    border-radius: 6px; 
 }
 
 .individualImg {
@@ -45,6 +53,7 @@ body {
     text-align: center;
     margin: 0px;
     padding: 0px;
+    width: auto;
 }
 
 .divBar a {
