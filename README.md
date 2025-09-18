@@ -18,4 +18,6 @@
 ## More Info
     There is an extra folder "ExtraFiles" that is in this repository. These files are the extra pages that are in the site. Are they needed? No, they are not. I simply made them because I was breaking the project down while doing formating and thus wanted to see them.
 
+    You can also see the example formating in the the folder "Example". This folder contains the css, and the html code for all files in the example format. Normal index, will be shown as custom.
+
 ## References / If needed
